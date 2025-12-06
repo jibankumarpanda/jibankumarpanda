@@ -13,7 +13,7 @@
 
 ---
 
-<h3>🌐 Connect With Me:</h3>
+<h3> Connect With Me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/jiban-panda-137037331/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -22,7 +22,7 @@
 
 ---
 
-<h3>🛠️ Skills & Technologies:</h3>
+<h3> Skills & Technologies:</h3>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,15 +54,7 @@
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibankumarpanda&show_icons=true&layout=compact" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=default" height="170"/>
-</p>
+<h3> GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda" height="170"/>
