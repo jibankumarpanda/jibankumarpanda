@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jiban Kumar Panda</h1>
-<h3 align="center">Full Stack Developer | Backend, Databases & Frontend 🚀</h3>
+<h1 align="center">Hi , I'm Jiban Kumar Panda</h1>
+<h3 align="center">Full Stack Developer | {
+I build scalable & secure backend systems with Node.js,Express,MongoDB & PostgreSQL.Focus on REST APIs,microservices,security & real-time systems. 
+} </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jibankumarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🔭 I’m currently working on **Full-Stack Web Development**
-- 🌱 Learning **Advanced Backend & Cloud**
+- 🌱 Learning **Advanced Backend ,Cloud & WEB3**
 - 👯 Looking to collaborate on **Web & Backend Projects**
 - 💬 Ask me about **Backend, APIs, Databases & Frontend**
 - 📫 Email: **pandajiban331@gmail.com**
