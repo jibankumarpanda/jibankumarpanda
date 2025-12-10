@@ -58,6 +58,4 @@ I build scalable & secure backend systems with Node.js,Express,MongoDB & Postgre
 
 <h3> GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=dark" height="170"/>
