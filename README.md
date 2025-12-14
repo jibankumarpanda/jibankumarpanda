@@ -74,8 +74,8 @@ Focused on REST APIs, microservices, security & real-time systems.
 <h3 align="center"> GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark" />
-  <br/>
+ <img src="https://streak-stats.demolab.com?user=jibankumarpanda" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibankumarpanda&layout=compact&theme=dark" />
 </p>
 
