@@ -54,6 +54,8 @@ Focused on REST APIs, microservices, security & real-time systems.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
@@ -73,10 +75,7 @@ Focused on REST APIs, microservices, security & real-time systems.
 
 <h3 align="center"> GitHub Stats</h3>
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=jibankumarpanda" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibankumarpanda&layout=compact&theme=dark" />
-</p>
-
+![](https://nirzak-streak-stats.vercel.app/?user=jibankumarpanda&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=dark)
 
