@@ -48,6 +48,19 @@ I build scalable & secure backend systems with Node.js,Express,MongoDB & Postgre
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<!-- Blockchain -->
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white"/>
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -58,4 +71,4 @@ I build scalable & secure backend systems with Node.js,Express,MongoDB & Postgre
 
 <h3> GitHub Stats:</h3>
 
-<img src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=dark" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda&theme=dark" alt="GitHub Streak" height="170">
