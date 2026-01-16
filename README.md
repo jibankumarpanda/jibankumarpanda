@@ -27,6 +27,7 @@ Focused on REST APIs, microservices, security & real-time systems.
   <a href="https://www.linkedin.com/in/jiban-panda-137037331/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
+  
   <a href="https://portfolio-beta-rose-53.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
