@@ -5,7 +5,10 @@ Full Stack Developer | Building scalable & secure backend systems
 
 <p align="center">
 I work with Node.js, Express, MongoDB & PostgreSQL.<br/>
-Focused on REST APIs, microservices, security & real-time systems.
+Focused on REST APIs, microservices, security & real-time systems.<br/>
+Proficient in frontend technologies like React and Next.js for building dynamic user interfaces.<br/>
+Experienced in deploying scalable applications using Docker, Kubernetes, and cloud platforms.<br/>
+Skilled in optimizing database performance and designing robust backend architectures.
 </p>
 
 <p align="center">
