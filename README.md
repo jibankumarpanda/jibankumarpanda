@@ -113,7 +113,12 @@ Skilled in optimizing database performance and designing robust backend architec
 
 <h3 align="center"> GitHub Stats</h3>
 
-![](https://nirzak-streak-stats.vercel.app/?user=jibankumarpanda&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=dark" />
+</p>
 
