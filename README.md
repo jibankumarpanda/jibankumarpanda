@@ -114,26 +114,25 @@ Skilled in optimizing database performance and designing robust backend architec
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/github/commit-activity/y/jibankumarpanda/jibankumarpanda?label=Commits&style=for-the-badge" alt="GitHub Commits" />
-  <img src="https://img.shields.io/github/followers/jibankumarpanda?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jibankumarpanda?label=Stars&style=for-the-badge" alt="GitHub Stars" />
+  <!-- Basic GitHub Stats -->
+  <a href="https://github.com/jibankumarpanda">
+    <img src="https://img.shields.io/github/followers/jibankumarpanda?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/jibankumarpanda?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/jibankumarpanda/jibankumarpanda" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/jibankumarpanda?tab=repositories">
+    <img src="https://img.shields.io/github/languages/count/jibankumarpanda/jibankumarpanda" alt="Languages" />
+  </a>
   
-  <br/>
+  <br/><br/>
   
-  <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jibankumarpanda&theme=github_dark" alt="GitHub Profile Summary" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=default" alt="GitHub Stats" />
   
-  <br/>
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jibankumarpanda&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jibankumarpanda&theme=github_dark" alt="Productive Time" />
-  
-  <br/>
+  <br/><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jibankumarpanda&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jibankumarpanda&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
