@@ -111,14 +111,22 @@ Skilled in optimizing database performance and designing robust backend architec
 
 ---
 
-<h3 align="center"> GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=dark" />
-</p>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jiban's GitHub Stats" />
+  </a>
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=dark&date_format=j%20M%5B%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" />
+  </a>
+</div>
 
