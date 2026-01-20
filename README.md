@@ -114,25 +114,12 @@ Skilled in optimizing database performance and designing robust backend architec
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- Basic GitHub Stats -->
-  <a href="https://github.com/jibankumarpanda">
-    <img src="https://img.shields.io/github/followers/jibankumarpanda?style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/jibankumarpanda?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/jibankumarpanda/jibankumarpanda" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/jibankumarpanda?tab=repositories">
-    <img src="https://img.shields.io/github/languages/count/jibankumarpanda/jibankumarpanda" alt="Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=default" alt="GitHub Stats" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=default" alt="GitHub Streak" />
   
   <br/><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=default&hide_border=true&hide=html,css,scss,shell" alt="Most Used Languages" />
 </p>
 
