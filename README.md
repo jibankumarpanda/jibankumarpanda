@@ -114,12 +114,16 @@ Skilled in optimizing database performance and designing robust backend architec
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
+  <!-- GitHub Stats and Streak in a row -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=default&hide_border=true&hide=html,css,scss,shell" alt="Most Used Languages" />
+    &nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=contribs,prs,issues" alt="GitHub Stats" />
+  </div>
+  
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=jibankumarpanda&theme=default" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=default&hide_border=true&hide=html,css,scss,shell" alt="Most Used Languages" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jibankumarpanda&theme=default&date_format=M%20j%5B%2C%20%59%5D" alt="GitHub Streak" />
+  </p>
 </p>
 
