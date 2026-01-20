@@ -123,7 +123,7 @@ Skilled in optimizing database performance and designing robust backend architec
   
   <!-- GitHub Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=jibankumarpanda&theme=default" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=jibankumarpanda&theme=default" alt="GitHub Streak" />
   </p>
 </p>
 
