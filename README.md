@@ -34,13 +34,24 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" />
-</p>
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <br/>
+  <!-- Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jibankumarpanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <br/>
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
