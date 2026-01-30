@@ -36,13 +36,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jibankumarpanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibankumarpanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" />
 </p>
 
@@ -57,7 +53,7 @@
 </p>
 
 <details open>
-<summary><b>� Creative & Frontend Ecosystem</b></summary>
+<summary><b>🎨 Creative & Frontend Ecosystem</b></summary>
 <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
