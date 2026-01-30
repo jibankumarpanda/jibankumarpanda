@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jiban Kumar Panda</h1>
-<h3 align="center">Full Stack Developer | 3D Model Developer | Specialist in Animation & Modern Design</h3>
+
+<h3 align="center">🚀 Full Stack Developer | 🎨 3D Model & Animation Specialist | 🛠️ Modern Design Expert</h3>
+
 <p align="center">
-  <i>Crafting immersive digital experiences with scalable backends and stunning 3D animations.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Building+Scalable+Backend+Systems;3D+Interactive+Experiences;Immersive+Web+Animations;Full+Stack+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,23 +36,12 @@
 
 ### 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jibankumarpanda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
+  <img src="https://streak-stats.demolab.com/?user=jibankumarpanda&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jibankumarpanda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <br/>
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,shell" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibankumarpanda&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
