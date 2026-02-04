@@ -3,6 +3,10 @@
 <h3 align="center">Full Stack Developer | 3D Model & Animation | Modern Design</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jibankumarpanda&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%3E_Full+Stack+Development;%3E_Backend+Architecture;%3E_3D+Model+Design;%3E_Interactive+Animations" alt="Typing SVG" />
 </p>
 
