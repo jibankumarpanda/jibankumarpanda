@@ -106,23 +106,23 @@
 
 ## 🚀 Featured Projects
 
-### [Oryn Finance | Web3 Marketplace](https://oryn-finance.vercel.app/)
+### Oryn Finance | Web3 Marketplace [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://oryn-finance.vercel.app/)
 - Built a decentralized marketplace on Stellar Chain using React and Three.js
 - Developed immersive 3D interfaces with high-performance GSAP animations
 - Technologies: React, Three.js, GSAP, Stellar Blockchain
 
-### [Krishi Raksha | ML & Blockchain Security](https://krishi-raksha-8fjb.vercel.app/)
+### Krishi Raksha | ML & Blockchain Security [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://krishi-raksha-8fjb.vercel.app/)
 - Developed a high-integrity fraud detection engine using TypeScript and Celo
 - Integrated ML models for transaction validation
 - Focused on robust logic and data security
 - Technologies: TypeScript, Celo, Machine Learning
 
-### [Cinematic Landing Page | WebGL](https://landing-page-one-rho-68.vercel.app/)
+### Cinematic Landing Page | WebGL [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://landing-page-one-rho-68.vercel.app/)
 - Created a high-fidelity interactive experience using Three.js and custom WebGL shaders
 - Optimized complex scroll-triggered animations
 - Technologies: Three.js, WebGL, GSAP
 
-### [Interactive Full-Stack Portfolio](https://portfolio-beta-rose-53.vercel.app/)
+### Interactive Full-Stack Portfolio [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beta-rose-53.vercel.app/)
 - Showcasing design expertise with React and 3D interactive frameworks
 - Deployment sandbox for scalable full-stack architectures and UI/UX experiments
 - Technologies: React, Three.js, Framer Motion, Next.js
