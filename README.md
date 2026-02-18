@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/jiban-panda-137037331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-beta-rose-53.vercel.app/" target="_blank">
+  <a href="https://portfolio-j-bay.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/�_My_Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFD700" alt="Portfolio" />
   </a>
   <a href="mailto:pandajiban331@gmail.com">
