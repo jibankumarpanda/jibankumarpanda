@@ -106,6 +106,11 @@
 
 ## 🚀 Featured Projects
 
+### CampusKart | SaaS Marketplace [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://campuskart.space)
+- Built a comprehensive marketplace platform with SaaS management capabilities
+- Integrated payment automation for seamless transaction processing
+- Technologies: Full-stack development with payment gateway integration
+
 ### Oryn Finance | Web3 Marketplace [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://oryn-finance.vercel.app/)
 - Built a decentralized marketplace on Stellar Chain using React and Three.js
 - Developed immersive 3D interfaces with high-performance GSAP animations
@@ -126,6 +131,8 @@
 - Showcasing design expertise with React and 3D interactive frameworks
 - Deployment sandbox for scalable full-stack architectures and UI/UX experiments
 - Technologies: React, Three.js, Framer Motion, Next.js
+
+
 
 ---
 
