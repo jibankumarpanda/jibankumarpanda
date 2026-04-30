@@ -39,37 +39,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### gogcli.1 [![Live Demo](https://img.shields.io/badge/View-Project-00C4CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jibankumarpanda/gogcli.1.git)
-- Command-line interface tool
-- Technologies: CLI, Go
-
-### CampusKart | SaaS Marketplace [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://campuskart.space)
-- Built a comprehensive marketplace platform with SaaS management capabilities
-- Integrated payment automation for seamless transaction processing
-- Technologies: Full-stack development with payment gateway integration
-
-### Oryn Finance | Web3 Marketplace [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://oryn-finance.vercel.app/)
-- Built a decentralized marketplace on Stellar Chain using React and Three.js
-- Developed immersive 3D interfaces with high-performance GSAP animations
-- Technologies: React, Three.js, GSAP, Stellar Blockchain
-
-### Krishi Raksha | ML & Blockchain Security [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://krishi-raksha-8fjb.vercel.app/)
-- Developed a high-integrity fraud detection engine using TypeScript and Celo
-- Integrated ML models for transaction validation
-- Focused on robust logic and data security
-- Technologies: TypeScript, Celo, Machine Learning
-
-### Cinematic Landing Page | WebGL [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://landing-page-one-rho-68.vercel.app/)
-- Created a high-fidelity interactive experience using Three.js and custom WebGL shaders
-- Optimized complex scroll-triggered animations
-- Technologies: Three.js, WebGL, GSAP
-
-### Interactive Full-Stack Portfolio [![Live Demo](https://img.shields.io/badge/Visit-Live%20Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-beta-rose-53.vercel.app/)
-- Showcasing design expertise with React and 3D interactive frameworks
-- Deployment sandbox for scalable full-stack architectures and UI/UX experiments
-- Technologies: React, Three.js, Framer Motion, Next.js
+| Project | Description |
+|---|---|
+| [gogcli.1](https://github.com/jibankumarpanda/gogcli.1.git) | Command-line interface tool |
+| [CampusKart](https://campuskart.space) | Marketplace with SaaS management and payment automation |
+| [Oryn Finance](https://oryn-finance.vercel.app/) | Decentralized marketplace on Stellar Chain with 3D interfaces |
+| [Krishi Raksha](https://krishi-raksha-8fjb.vercel.app/) | ML & blockchain security platform with fraud detection |
+| [Cinematic Landing Page](https://landing-page-one-rho-68.vercel.app/) | WebGL experience with Three.js and custom shaders |
+| [Interactive Portfolio](https://portfolio-beta-rose-53.vercel.app/) | Full-stack portfolio with 3D interactive frameworks |
 
 ## 🛠️ Tech Stack
 
