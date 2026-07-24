@@ -45,6 +45,7 @@
 |---|---|
 | [gogcli.1](https://github.com/jibankumarpanda/gogcli.1.git) | Command-line interface tool |
 | [CampusKart](https://campuskart.space) | Marketplace with SaaS management and payment automation |
+| [Swapnaouran](https://www.swapnaouran.in/) | Book marcket place for book publisher management, payment and Delivery |
 | [Oryn Finance](https://oryn-finance.vercel.app/) | Decentralized marketplace on Stellar Chain with 3D interfaces |
 | [Krishi Raksha](https://krishi-raksha-8fjb.vercel.app/) | ML & blockchain security platform with fraud detection |
 | [Cinematic Landing Page](https://landing-page-one-rho-68.vercel.app/) | WebGL experience with Three.js and custom shaders |
