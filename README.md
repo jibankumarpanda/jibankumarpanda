@@ -44,7 +44,7 @@
 | Project | Description |
 |---|---|
 | [gogcli.1](https://github.com/jibankumarpanda/gogcli.1.git) | Command-line interface tool |
-| [JtechSH.0](
+| [JtechSH.0](https://github.com/jibankumarpanda/JtechSH.git) | Comand operation Automation using gogcli.0 |
 | [CampusKart](https://campuskart.space) | Marketplace with SaaS management and payment automation |
 | [Swapnaouran](https://www.swapnaouran.in/) | Book marcket place for book publisher management, payment and Delivery |
 | [Oryn Finance](https://oryn-finance.vercel.app/) | Decentralized marketplace on Stellar Chain with 3D interfaces |
