@@ -43,6 +43,7 @@
 
 | Project | Description |
 |---|---|
+| [Veriq](veriq-neon.vercel.app) | RPC Safety Privacy and Trust Verification Protocol|
 | [ElevateCLI0.1](https://github.com/jibankumarpanda/ElevateCLI.0.git) | Devloper control on AI generated code|
 | [gogcli.1](https://github.com/jibankumarpanda/gogcli.1.git) | Command-line interface tool |
 | [TrigerSH](https://github.com/jibankumarpanda/Triger.sh.git) | Comand operation Automation using gogcli.0 |
