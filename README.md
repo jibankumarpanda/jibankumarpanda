@@ -46,6 +46,7 @@
 | [Veriq](https://veriq-neon.vercel.app/) | RPC Safety Privacy and Trust Verification Protocol|
 | [ElevateCLI0.1](https://github.com/jibankumarpanda/ElevateCLI.0.git) | Devloper control on AI generated code|
 | [gogcli.1](https://github.com/jibankumarpanda/gogcli.1.git) | Command-line interface tool |
+| [Zonyx](https://near-liard.vercel.app/) | A non-custodial cross-chain swap orchestrator powered by NEAR Intents, paired with an on-chain trading intelligence engine that proves the market structure and data behind every signal. |
 | [TrigerSH](https://github.com/jibankumarpanda/Triger.sh.git) | Comand operation Automation using gogcli.0 |
 | [CampusKart](https://campuskart.space) | Marketplace with SaaS management and payment automation |
 | [Swapnaouran](https://www.swapnaouran.in/) | Book marcket place for book publisher management, payment and Delivery |
